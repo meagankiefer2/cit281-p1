@@ -7,10 +7,12 @@
 
 
 ### Technologies used
-	Terminal
-	Visual Studio Code
+`Terminal`
+`Visual Studio Code`
+
+
 ### What I learned
-	How to work with the CLI to create folders and how to create and Run and Dubug Javascript files.
+How to work with the CLI to create folders and how to create and Run and Dubug Javascript files.
 
 
 
