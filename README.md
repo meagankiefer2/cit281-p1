@@ -1,10 +1,17 @@
 ## CIT 281 Project 1
 
-### Purpose of the Project 
+### Purpose of Project 1
+* Gain experience accessing the operating system's command line interface (CLI) and working with its commands
+* Gain experience working with Visual Studio Code (VSCode)
+* Gain experience writing and executing non-web server Node.js JavaScript code
+
 
 ### Technologies used
-
+	Terminal
+	Visual Studio Code
 ### What I learned
+	How to work with the CLI to create folders and how to create and Run and Dubug Javascript files.
+
 
 
 Project 1 folders
